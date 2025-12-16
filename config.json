@@ -1,5 +1,5 @@
 {
-  "show_web": false,
+  "show_web": true,
   "url": "https://trunksyi.github.io/kuaisave/tutorial.html",
   "note": "Change show_web to true AFTER App Store approval. Replace url with your hosted tutorial.html link."
 }
