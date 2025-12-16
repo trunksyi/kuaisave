@@ -8,9 +8,9 @@
     },
     {
         "id": "2",
-        "title": "Cute Cat Astronaut",
-        "prompt": "A close-up of a fluffy cat wearing a space suit, floating in zero gravity inside a spaceship, galaxy background, soft lighting, pixar style.",
-        "image": "https://images.unsplash.com/photo-1529778873920-4da4926a7071?w=600&q=80",
+        "title": "Cute Cat",
+        "prompt": "A realistic first-person view (POV) video inside a long animal shelter corridor lined with stacked metal cages filled with cats. A human hand holds an open can of wet cat food in the foreground. Suddenly, hundreds of cats burst out of their cages simultaneously, leaping onto the floor and swarming towards the camera in a chaotic, massive stampede to get the food. High energy, natural lighting, frantic movement.",
+        "image": "https://trunksyi.github.io/kuaisave/22.jpg",
         "category": "Animals"
     },
     {
