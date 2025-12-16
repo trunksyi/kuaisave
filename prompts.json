@@ -8,13 +8,20 @@
     },
     {
         "id": "2",
-        "title": "Cute Cat",
+        "title": "",
         "prompt": "A realistic first-person view (POV) video inside a long animal shelter corridor lined with stacked metal cages filled with cats. A human hand holds an open can of wet cat food in the foreground. Suddenly, hundreds of cats burst out of their cages simultaneously, leaping onto the floor and swarming towards the camera in a chaotic, massive stampede to get the food. High energy, natural lighting, frantic movement.",
         "image": "https://trunksyi.github.io/kuaisave/22.jpg",
         "category": "Animals"
     },
-    {
+     {
         "id": "3",
+        "title": "",
+        "prompt": "A realistic medium shot of a cute calico cat wearing a black harness, sitting upright on a drummer's throne in a music studio. The studio walls are covered with black acoustic foam. The cat is holding wooden drumsticks in its front paws and actively playing a drum set, hitting the snare and cymbals energetically. The camera moves slightly to the rhythm, high quality, realistic lighting.",
+        "image": "https://trunksyi.github.io/kuaisave/44.jpg",
+        "category": "Animals"
+    },
+    {
+        "id": "4",
         "title": "",
         "prompt": "A realistic video of a tiny orange tabby kitten crawling on a wet sunny beach. Suddenly, the kitten puffs up and morphs into a round, spiky pufferfish-cat hybrid on the sand. A human hand holding a blue bucket appears and interacts with it. Then, the creature deflates back into a normal kitten and runs fast into the ocean waves. Bright tropical lighting, 4k resolution, surreal metamorphosis, water splashes.",
         "image": "https://trunksyi.github.io/kuaisave/33.jpg",
