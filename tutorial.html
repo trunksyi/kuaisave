@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How To Use</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .step {
+            margin-bottom: 40px;
+            width: 100%;
+            max-width: 400px;
+        }
+        .step-text {
+            font-size: 16px;
+            margin-bottom: 15px;
+            line-height: 1.4;
+            font-weight: 500;
+        }
+        .step-image-container {
+            width: 100%;
+            border-radius: 12px;
+            overflow: hidden;
+            position: relative;
+        }
+        .step-image {
+            width: 100%;
+            display: block;
+            border-radius: 12px;
+        }
+        /* Arrow Styling (CSS Shapes for demo, replace with image in production) */
+        .arrow-pointer {
+            position: absolute;
+            color: red;
+            font-size: 40px;
+            font-weight: bold;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+            z-index: 10;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>How To?</h1>
+
+    <!-- Step 1 -->
+    <div class="step">
+        <div class="step-text">Step 1 : Open Tiktok app, scroll to the video, press on Share button.</div>
+        <div class="step-image-container">
+            <!-- Replace src with your actual Step 1 screenshot URL -->
+            <img src="https://images.unsplash.com/photo-1611605698335-8b1569810432?w=500&q=80" alt="Step 1" class="step-image">
+            <!-- Simulated Arrow -->
+            <div class="arrow-pointer" style="bottom: 40%; right: 15%;">➜</div>
+        </div>
+    </div>
+
+    <!-- Step 2 -->
+    <div class="step">
+        <div class="step-text">Step 2 : Press on Copy link button then come back here.</div>
+        <div class="step-image-container">
+            <!-- Replace src with your actual Step 2 screenshot URL -->
+            <img src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=500&q=80" alt="Step 2" class="step-image">
+            <!-- Simulated Arrow -->
+            <div class="arrow-pointer" style="top: 20%; left: 10%;">⬇</div>
+        </div>
+    </div>
+
+</body>
+</html>
