@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Cyberpunk City Rain",
+        "prompt": "A futuristic city with neon lights, heavy rain, reflections on wet asphalt, cinematic lighting, 8k resolution, highly detailed.",
+        "image": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?w=600&q=80",
+        "category": "Sci-Fi"
+    },
+    {
+        "id": "2",
+        "title": "Cute Cat Astronaut",
+        "prompt": "A close-up of a fluffy cat wearing a space suit, floating in zero gravity inside a spaceship, galaxy background, soft lighting, pixar style.",
+        "image": "https://images.unsplash.com/photo-1529778873920-4da4926a7071?w=600&q=80",
+        "category": "Animals"
+    },
+    {
+        "id": "3",
+        "title": "Underwater Coral Reef",
+        "prompt": "Beautiful underwater scenery, vibrant coral reef, colorful fish swimming, sun rays penetrating the water surface, 4k, national geographic style.",
+        "image": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?w=600&q=80",
+        "category": "Nature"
+    }
+]
